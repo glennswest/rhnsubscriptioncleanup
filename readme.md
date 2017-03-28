@@ -35,3 +35,6 @@ export ownerid=XXXXXXX
 export user=XXXXXXX
 export password='XXXXXXX'
 
+## Notes
+This is a nice example of using json data in C, and using curl to do 
+rest http calls.
