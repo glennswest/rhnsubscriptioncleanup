@@ -42,3 +42,6 @@ export password='XXXXXXX'
 ## Notes
 This is a nice example of using json data in C, and using curl to do 
 rest http calls.
+
+## Environment
+Assumes u have gcc installed. Tested on rhel and osx.
