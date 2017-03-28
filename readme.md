@@ -18,7 +18,7 @@ password = rhn password
 
 Ownerid can be found by using a existing redhat machine:
 
------------------------------------------------------
+```
 [root@bastion glennswest]# subscription-manager orgs
 Username: gwest@redhat.com
 Password: 
@@ -28,12 +28,12 @@ Password:
 
 Name: 7777777
 Key:  7777777
------------------------------------------------------
 
 
 export ownerid=XXXXXXX
 export user=XXXXXXX
 export password='XXXXXXX'
+```
 
 ## Notes
 This is a nice example of using json data in C, and using curl to do 
