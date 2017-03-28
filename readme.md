@@ -28,8 +28,12 @@ Password:
 
 Name: 7777777
 Key:  7777777
+```
 
 
+Before you run the app, make sure the environment variables are setup:
+
+```
 export ownerid=XXXXXXX
 export user=XXXXXXX
 export password='XXXXXXX'
